@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+main{
+    display: flex;
+}
+ul{
+    display: inline-block;
+    list-style: none;
+}
+li{
+    display: inline-block;
+    margin-left: 56px ;
+    margin-top: 28px;
+    font-weight: 700;
+}
+.icon{
+    margin-left: 165px;
+    margin-top: 28px;
+}
+button{
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-right: 165px;
+    width: 158px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    font-size: 12px;
+}
+li{
+    font-size: 12px;
+}
+.textsection{
+    padding-top: 173px;
+    height: 480px;
+    padding-left: 112px;
+    width: 650px;
+    background-color: black;
+}
+.subtext{
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    margin-top: 21px;
+   
+}
+.invite{
+    font-size: 12px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-top: 48px;
+}
+.mainphoto{
+    height: 100%;
+}
